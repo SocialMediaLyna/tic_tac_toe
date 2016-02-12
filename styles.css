@@ -1,0 +1,27 @@
+body {
+  position: absolute;
+}
+
+td {
+  font-family: Baskerville, serif;
+  border: 5px solid #ff66ff;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-size: 150px;
+  color: #ff0000;
+  cursor: pointer;
+}
+
+td:hover {
+  color: pink;
+}
+
+
+h1 {
+  border: solid black;
+  font-family: Helvetica, Arial, sans-serif;
+  color: red;
+  font-size: 40px;
+  text-align: center;
+}
